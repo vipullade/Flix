@@ -1,0 +1,6 @@
+framework module Pods_Tispter {
+  umbrella header "Pods-Tispter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Tispter_TispterUITests {
+  umbrella header "Pods-Tispter-TispterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
